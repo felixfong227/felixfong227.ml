@@ -1,6 +1,0 @@
-Disallow: /
-User-Agent: *
-Disallow: /*uploads
-Disallow: /*uploads/images
-Disallow: /test.php
-Disallow: /manager

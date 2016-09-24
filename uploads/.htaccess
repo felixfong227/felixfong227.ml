@@ -1,5 +1,0 @@
-# RewriteRule \.(gif|jpg|png|jpeg)$ - [L,F]
-# ErrorDocument 403 /access_block.php
-<IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "*"
-</IfModule>
