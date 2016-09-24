@@ -1,0 +1,274 @@
+@charset "UTF-8";
+�����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������* {
+  padding: 0;
+  margin: 0;
+  transition: all 0.3s ease;
+}
+
+html {
+  font-family: open sans;
+}
+
+a {
+  text-decoration: none;
+  color: #ffc55c;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+.my-name {
+  background: url(../src/fox.gif) no-repeat center;
+  background-size: 100% 100%;
+  background-position: 0 0.1em;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  -ms-background-clip: text;
+  -ms-text-fill-color: transparent;
+  -o-background-clip: text;
+  -o-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  color: #3ec1d3;
+  font-size: 20em;
+  transition: all 0.2s ease;
+  text-align: center;
+  font-family: Montserrat;
+  -webkit-animation: myNameInit 0.4s ease both;
+          animation: myNameInit 0.4s ease both;
+  font-family: Montserrat;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+#YTbgv {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: -99;
+}
+
+#bgvCover {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -98;
+}
+
+.fontenddev {
+  margin: 0 auto;
+  background: #fc0;
+  color: #fff;
+  width: 40em;
+  height: 30em;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 0% 50%;
+  -webkit-animation: aboutmeinit 0.3s ease;
+          animation: aboutmeinit 0.3s ease;
+}
+
+.backenddev {
+  margin: 0 auto;
+  background: #212222;
+  color: #fff;
+  width: 40em;
+  height: 30em;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 50% 0%;
+  -webkit-animation: aboutmeinit 0.3s ease;
+          animation: aboutmeinit 0.3s ease;
+}
+
+.aboutMe {
+  background: #385b66;
+  color: #fff;
+  width: 50vw;
+  margin-top: 1em;
+  float: right;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+.aboutMe .myTwitter {
+  font-family: Poiret One;
+  color: #77c7f7;
+}
+.aboutMe .myTwitter:hover {
+  color: #39aaed;
+}
+
+.myIcon {
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.findmeon {
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 50em;
+  height: 10em;
+  background: #7e858b;
+  border-radius: 1em;
+  color: #fff;
+  margin: 1em auto;
+}
+
+.icon {
+  color: #fff;
+  font-size: 2em;
+}
+
+.fa-codepen:hover {
+  transition: all 0.3s ease;
+  color: #1b1c1b;
+  text-decoration: none;
+}
+
+.fa-twitter:hover {
+  transition: all 0.3s ease;
+  color: #53a6ea;
+  text-decoration: none;
+}
+
+.fa-github:hover {
+  transition: all 0.3s ease;
+  color: #201f1f;
+  text-decoration: none;
+}
+
+.fa-soundcloud:hover {
+  transition: all 0.3s ease;
+  color: #FD8024;
+  text-decoration: none;
+}
+
+.youtubeiwatch {
+  background: #639cd9;
+  color: #fff;
+  width: 50vw;
+  margin-top: 1em;
+  float: left;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+.youtubeiwatch .youtube {
+  text-transform: uppercase;
+  color: #d52423;
+}
+.youtubeiwatch h1 {
+  font-size: 1em;
+}
+.youtubeiwatch .youtuberIcon {
+  border-radius: 50%;
+  width: 5em;
+  height: 5em;
+}
+
+.youtubeIcon {
+  width: 20em;
+  height: 15em;
+}
+
+.placeigo {
+  background: #6bba62;
+  color: #fff;
+  width: 50vw;
+  margin-top: 1em;
+  float: right;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+.placeigo .cssdesignawardsIcon, .placeigo .codepenIcon {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+
+::-moz-selection, ::-moz-selection {
+  background: #212323;
+  color: #FFFF;
+}
+
+::-moz-selection, ::selection {
+  background: #212323;
+  color: #FFFF;
+}
+
+img {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.myapps {
+  background: #534C98;
+  color: #fff;
+  width: 50vw;
+  margin-top: 1em;
+  float: right;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+.myapps img {
+  width: 5em;
+  height: 5em;
+}
+
+.myprojects {
+  background: #C83B3B;
+  color: #fff;
+  width: 50vw;
+  margin: 1em 0em;
+  float: left;
+  text-align: center;
+  padding: 1em;
+  border-radius: 1em;
+}
+.myprojects img {
+  width: 30%;
+  height: 30%;
+}

@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.icon {
+  background: url("https://build.phonegap.com/images/icon.png") no-repeat center;
+  background-size: contain;
+  width: 10em;
+  height: 10em;
+  margin: 0 auto;
+}
+
+html {
+  text-align: center;
+}
+
+.download {
+  background: #534C98;
+  color: #FFF;
+}
+
+.download img {
+  width: 7em;
+}
+
+.opensource img {
+  width: 2em;
+}

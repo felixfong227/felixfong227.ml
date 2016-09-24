@@ -1,0 +1,58 @@
+*
+  padding: 0
+  margin: 0
+
+html
+  font-family: Roboto
+  overflow-x: hidden
+
+.hero
+  background: url('src/heroImage.jpg') no-repeat
+  width: 100vw
+  height: 85vh
+  background-size: cover
+  display: flex
+  justify-content: center
+  align-items: center
+  color: #FFF
+
+.Navbar
+  background: #516091
+  color: #FFF
+  padding: 1em
+  font-size: 1.5em
+  transition: all 0.3s ease
+
+  &.fixed
+    position: fixed
+    top: 0
+    width: 100vw
+    padding: 0.5em
+    font-size: 1em
+    box-shadow: rgba(0,0,0,0.4) 0px 5px
+
+.main
+  width: 100vw
+  display: flex-block
+  justify-content: center
+
+  .SoundCloud
+    text-align: center
+    width: 100vw
+    background: #f7be6a
+    color: #FFF
+    display: block
+    .fa-github
+      text-decoration: none
+      color: #000
+      font-size: 5em
+
+
+  .Emoji
+    text-align: center
+    width: 100vw
+    background: #5F5DBD
+    color: #FFF
+    .code
+      font-size: 1.5em
+@import "phone.style"

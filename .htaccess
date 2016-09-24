@@ -1,6 +1,1 @@
 Options -Indexes
-RewriteEngine On
-RewriteRule ^GetImage?$ GetImage.php
-RewriteRule ^cpaJS?$ apiJS/cpaJS.min.js
-php_value upload_max_filesize 20M
-php_flag display_errors off
