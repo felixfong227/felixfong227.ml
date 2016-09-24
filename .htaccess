@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine on
+RewriteRule ^warning?$ warning.php
+RewriteRule ^overview?$ overview.php
+ErrorDocument 404 /404.html
+# RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]

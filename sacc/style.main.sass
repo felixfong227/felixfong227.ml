@@ -1,0 +1,172 @@
+*
+  padding: 0
+  margin: 0
+
+.mylogo
+  width: 10em
+  height: 10em
+  border-radius: 50%
+
+.showFileURL
+  background: #9fd713
+  color: #FFF
+  width: auto
+  padding: 1em
+  border-radius: 2em
+
+html
+  width: 100vw
+  height: 100vh
+  text-align: center
+  display: flex
+  justify-content: center
+  align-items: center
+  font-family: sans-serif
+
+.urlinput
+  border: none
+  outline: none
+  border-bottom: 2px solid #19a1b4
+  width: 50vw
+  font-size: 1.1em
+  position: relative
+
+.sslInput
+  outline: none
+  border: 3px solid #1cc21e
+  color: transparent
+  text-shadow: #000 0px 0px
+  overflow: hidden
+
+.submit
+  border: none
+  outline: none
+  border: 2px dotted #212323
+  background: none
+  font-size: 2em
+  padding: 0.5em
+  margin: 0.5em 0em
+
+
+.loading
+  width: 100vw
+  height: 100vh
+  position: fixed
+  opacity: 0
+  transition: all 0.3s ease
+  top: 0
+  left: 0
+  z-index: -99
+
+.sslCheck
+  transition: all 0.3s ease
+  font-size: 1.5em
+
+  &.ssl
+    color: #1cc21e
+
+  &.nullssl
+    color: #bababa
+
+  &.fa-soundcloud
+    color: #FF3A01
+
+  &.fa-google
+    color: #FBBC05
+
+  &.fa-facebook
+    color: #3C5A99
+
+  &.fa-twitter
+    color: #55ACEE
+
+  &.fa-youtube
+    color: #DE2925
+
+  &.fa-github
+    color: #201f1f
+
+  &.fa-codepen
+    color: #212323
+
+  &.fa-jsfiddle
+    color: #1ed7d2
+
+  &.fa-instagram
+    color: #D6C9B5
+
+  &.fa-tumblr
+    color: #395976
+
+  &.fa-deviantart
+    color: #04CC48
+
+  &.fa-windows
+    color: #0376DD
+
+  &.fa-apple
+    color: #212323
+
+  &.fa-flickr
+    color: #212323
+
+  &.fa-reddit
+    color: #212323
+
+  &.fa-weibo
+    color: #E6162D
+
+  &.fa-linkedin
+    color: #0085AF
+
+  &.fa-vk
+    color: #4C75A3
+
+  &.fa-bitbucket
+    color: #25BFFF
+
+  &.fa-amazon
+    color: #FF8E2E
+
+  &.fa-paypal
+    color: #002C8A
+
+  &.fa-wordpress
+    color: #464646
+
+  &.fa-slack
+    color: #212323
+
+  &.fa-dropbox
+    color: #008BD3
+
+  &.fa-steam
+    color: #212323
+
+
+.commitent
+  font-size: 1em
+  user-select: none
+  display: none
+
+  & .audltContent
+    border: 2px solid rgba(0,0,0,0.6)
+
+@media screen and (max-width: 980px)
+  .urlinput
+    width: 100vw
+    font-size: 1.5em
+    text-align: center
+
+  .sslCheck
+    font-size: 4em
+
+  .mylogo
+    width: 5em
+    height: 5em
+
+  .submit
+    padding: 0.2em
+    width: auto
+    height: auto
+    cursor: pointer
