@@ -1,0 +1,123 @@
+*
+  padding: 0
+  margin: 0
+
+html
+  text-align: center
+  animation: init 0.2s ease both
+
+
+.homePage
+  user-select: none
+  text-align: center
+  font-family: Roboto
+
+.myface
+  border-radius: 50%
+  width: 15em
+  height: 15em
+
+
+.upload
+  margin: 0 auto
+  border: 3px dotted #212323
+  width: 50vw
+  height: 50vh
+  transition: all 0.3s ease
+  position: relative
+  &.gotfile
+    border: 2px solid #55da0d
+
+  & .uploadIcon
+    opacity: 0
+    width: auto
+    height: 30%
+    top: 100px
+    transition: all 0.3s ease
+    position: relative
+
+    &.gotfile
+      opacity: 1
+      top: 0px
+
+    &.uploadfile
+      top: -100px
+      opacity: 0
+
+b
+  font-size: 1.1em
+  color: #8F334C
+
+.pro
+  background: #FCD000
+  color: #000
+  padding: 0.2em
+  border-radius: 5px
+
+[name=image]
+  width: 100%
+  height: 100%
+  opacity: 0
+  position: absolute
+  top: 0em
+  right: 0em
+
+.background
+  background: url('https://bytebucket.org/moongod101/codepenassets-official-source/raw/8b02ff20941ca491562172be34c550b8f2059342/Codepenassets.png?token=326c89d1e8a0adb8313e8613dd33b579f7711f31') no-repeat center fixed
+  filter: blur(5px)
+  width: 100vw
+  height: 100vh
+  position: absolute
+  top: 0
+  right: 0
+  z-index: -99
+
+.indiegogoCampaign
+  width: 222px
+  height: 445px
+  position: fixed
+  left: 0em
+  top: 0em
+
+.notif
+  &.red
+    background: red
+    color: #FFF
+    text-align: center
+    letter-spacing: 3px
+    font-family: fantasy
+    position: fixed
+    z-index: 100
+    width: 100vw
+    font-size: 1.5em
+
+.features
+  position: fixed
+  top: 11em
+  right: 0em
+  width: 10em
+  height: 15em
+  text-align: center
+  z-index: 99
+  background: transparentize(#717dbf, 0.7)
+
+// .showcase
+//   background: url("https://bytebucket.org/moongod101/codepenassets-official-source/raw/30c6d82f89872a1bb152e2ed09b4b0ba84a9e0e8/showcasebg.jpg?token=6cdcf48a73171e5624f3a0a88007c1c858e87217")no-repeat center fixed
+//   width: 100vw
+//   height: 100vh
+//   color: #FFF
+//
+// .signup
+//   background: #1ee3dd
+//   padding: 0.1em
+//   position: relative
+//   cursor: pointer
+//
+// [type=input]
+//   background: none
+//   background: none
+//   border-bottom: #3fe42a
+//   text-align: center
+
+@import "style.phone.sass"
+@import "style.animation.sass"

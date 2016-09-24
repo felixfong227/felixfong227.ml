@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.background {
+  background: url("https://bytebucket.org/moongod101/codepenassets-official-source/raw/8b02ff20941ca491562172be34c550b8f2059342/Codepenassets.png?token=326c89d1e8a0adb8313e8613dd33b579f7711f31") no-repeat center fixed;
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -99;
+}
+
+html {
+  text-align: center;
+}
+
+input {
+  outline: none;
+  background: none;
+  border: none;
+  border-bottom: 2px solid #000;
+  font-size: 1.1em;
+}
+
+[name=register] {
+  background: pink;
+}
+
+.username {
+  background: #363B4E;
+  width: 50vw;
+  height: 20vh;
+  display: block;
+  color: #FFF;
+  margin: 0 auto;
+}
+
+.password {
+  background: #55829C;
+  width: 50vw;
+  height: 20vh;
+  display: block;
+  color: #FFF;
+  margin: 0 auto;
+}

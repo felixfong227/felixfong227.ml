@@ -1,0 +1,8 @@
+RewriteEngine On
+Options -Indexes
+RewriteRule ^edit?$ edit.php
+RewriteRule ^login?$ login.php
+RewriteRule ^logout?$ logout.php
+RewriteRule ^manager?$ manager.php
+RewriteRule ^register?$ register.php
+RewriteRule ^editor?$ editor.php

@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.background {
+  background: url("https://bytebucket.org/moongod101/codepenassets-official-source/raw/8b02ff20941ca491562172be34c550b8f2059342/Codepenassets.png?token=326c89d1e8a0adb8313e8613dd33b579f7711f31") no-repeat center fixed;
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -99;
+}
+
+.showAssets {
+  text-align: center;
+  position: relative;
+  top: 0em;
+}
+
+.assets {
+  background: rgba(204, 204, 204, 0.4);
+  width: 40vw;
+  height: 80vh;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  top: 0em;
+  position: relative;
+}
+
+.assets img {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.assets p {
+  width: 100%;
+  position: absolute;
+  bottom: 0em;
+  right: 0em;
+  background: rgba(148, 226, 20, 0.3);
+  color: #FFF;
+  font-size: 1.5em;
+  padding: 0.5em;
+  display: inline-block;
+  -webkit-user-select: block;
+     -moz-user-select: block;
+      -ms-user-select: block;
+          user-select: block;
+}
+
+.assets .removeImage {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+}
+
+.assets .removeImage .fa-times {
+  border: none;
+  background: #e95b34;
+  padding: 0.5em;
+  outline: none;
+  cursor: pointer;
+  color: #FFF;
+  font-size: 1em;
+  transition: background 0.2s ease;
+}
+
+.assets .removeImage .fa-times:hover {
+  background: #ec3c0d;
+}
+
+.showImage {
+  width: 30em;
+  height: 20em;
+}
+
+.error {
+  position: fixed;
+  top: 0em;
+  z-index: 100;
+  padding: 2;
+  background: #f15337;
+  color: #FFF;
+  text-align: center;
+  width: 100vw;
+  height: 3em;
+}
+
+.error p {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  font-size: 1.5em;
+}
+
+.loadIcon {
+  width: 5em;
+  height: 5em;
+  text-align: center;
+}
+
+.loadIcon.hide {
+  display: none;
+}
+
+@media screen and (max-width: 980px) {
+  .showAssets .assets {
+    width: 80vw;
+    height: 50vh;
+  }
+  .showAssets .assets p {
+    font-size: 1.2em;
+  }
+  .choseTypes {
+    font-size: 2em;
+  }
+}

@@ -1,0 +1,2 @@
+Header set Cache-Control "no-transform"
+Header set Content-Type "text/css; charset=utf-8"

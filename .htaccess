@@ -1,6 +1,20 @@
+RewriteEngine On
 Options -Indexes
-RewriteEngine on
-RewriteRule ^warning?$ warning.php
-RewriteRule ^overview?$ overview.php
-ErrorDocument 404 /404.html
-# RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
+RewriteRule ^index.html?$ index.php
+RewriteRule ^upload?$ upload.php
+RewriteRule ^BrowserView?$ BrowserView.php
+RewriteRule ^GetImage?$ GetImage.php
+RewriteRule ^removeFile?$ removeFile.php
+RewriteRule ^pen?$ pen.php
+RewriteRule ^penUpload?$ penUpload.php
+RewriteRule ^penUploadProess?$ penUploadProess.php
+ErrorDocument 404 /404.php
+
+RewriteRule ^api?$ https://cpaapi.ml
+RewriteRule ^developer?$ https://cpaapi.ml
+
+ErrorDocument 508 "<img src='https://bytebucket.org/moongod101/codepenassets-official-source/raw/38e6115e5923cf6b2f1551c06138ed7bbe4df0ec/508.png?token=8ced134ac6706b044ca01647637217c4f394d0a0'>"
+
+
+php_flag display_errors off
+php_value upload_max_filesize 20M

@@ -1,0 +1,129 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  text-align: center;
+}
+
+form {
+  width: 100vw;
+  height: 100vh;
+}
+
+.loginForm {
+  width: 30%;
+  height: 50%;
+  margin: 0 auto;
+  overflow: hidden;
+  background: rgba(44, 205, 233, 0.4);
+  background-size: cover;
+}
+
+.username {
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  transition: all 0.3s ease;
+}
+
+.username input {
+  outline: none;
+  border: none;
+  background: none;
+  border-bottom: 2px solid #212323;
+  width: 100%;
+  font-size: 2em;
+}
+
+.username.hide {
+  height: 0em;
+  opacity: 0;
+  -webkit-transform: translateX(-100vh);
+      -ms-transform: translateX(-100vh);
+          transform: translateX(-100vh);
+}
+
+.password {
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  transition: all 0.3s ease;
+}
+
+.password input {
+  outline: none;
+  border: none;
+  background: none;
+  border-bottom: 2px solid #212323;
+  width: 100%;
+  font-size: 2em;
+}
+
+.password.hide {
+  height: 0em;
+  opacity: 0;
+  -webkit-transform: translateX(-100vh);
+      -ms-transform: translateX(-100vh);
+          transform: translateX(-100vh);
+}
+
+.password.pass {
+  -webkit-transform: translateY(-100vh);
+      -ms-transform: translateY(-100vh);
+          transform: translateY(-100vh);
+}
+
+.password .login {
+  border: none;
+  margin-top: 0.5em;
+  background: rgba(55, 146, 212, 0.4);
+  color: #FFF;
+  padding: 0.1em;
+}
+
+.password .login:hover {
+  cursor: pointer;
+}
+
+.loading img {
+  width: 100%;
+  height: 100%;
+  transition: all 0.2s ease;
+}
+
+.loading img.hide {
+  -webkit-transform: translateY(100vh);
+      -ms-transform: translateY(100vh);
+          transform: translateY(100vh);
+}
+
+.background {
+  background: url("https://bytebucket.org/moongod101/codepenassets-official-source/raw/8b02ff20941ca491562172be34c550b8f2059342/Codepenassets.png?token=326c89d1e8a0adb8313e8613dd33b579f7711f31") no-repeat center fixed;
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -99;
+}
+
+@media screen and (max-width: 980px) {
+  html {
+    font-size: 2em;
+  }
+  .loginForm {
+    width: 80vw;
+  }
+}

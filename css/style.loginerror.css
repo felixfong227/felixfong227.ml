@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  text-align: center;
+}
+
+.closeWindow {
+  cursor: pointer;
+  background: rgba(153, 219, 249, 0.4);
+  padding: 1em;
+  margin-top: 0.5em;
+  outline: none;
+  border: none;
+  font-size: 1.1em;
+  border-radius: 10px;
+}
+
+a {
+  color: #FA8E50;
+  font-size: 1.1em;
+}

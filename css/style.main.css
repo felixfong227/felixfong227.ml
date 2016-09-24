@@ -3,217 +3,179 @@
   margin: 0;
 }
 
-.mylogo {
-  width: 10em;
-  height: 10em;
-  border-radius: 50%;
-}
-
-.showFileURL {
-  background: #9fd713;
-  color: #FFF;
-  width: auto;
-  padding: 1em;
-  border-radius: 2em;
-}
-
 html {
-  width: 100vw;
-  height: 100vh;
   text-align: center;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  font-family: sans-serif;
+  -webkit-animation: init 0.2s ease both;
+          animation: init 0.2s ease both;
 }
 
-.urlinput {
-  border: none;
-  outline: none;
-  border-bottom: 2px solid #19a1b4;
-  width: 50vw;
-  font-size: 1.1em;
-  position: relative;
-}
-
-.sslInput {
-  outline: none;
-  border: 3px solid #1cc21e;
-  color: transparent;
-  text-shadow: #000 0px 0px;
-  overflow: hidden;
-}
-
-.submit {
-  border: none;
-  outline: none;
-  border: 2px dotted #212323;
-  background: none;
-  font-size: 2em;
-  padding: 0.5em;
-  margin: 0.5em 0em;
-}
-
-.loading {
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  opacity: 0;
-  transition: all 0.3s ease;
-  top: 0;
-  left: 0;
-  z-index: -99;
-}
-
-.sslCheck {
-  transition: all 0.3s ease;
-  font-size: 1.5em;
-}
-
-.sslCheck.ssl {
-  color: #1cc21e;
-}
-
-.sslCheck.nullssl {
-  color: #bababa;
-}
-
-.sslCheck.fa-soundcloud {
-  color: #FF3A01;
-}
-
-.sslCheck.fa-google {
-  color: #FBBC05;
-}
-
-.sslCheck.fa-facebook {
-  color: #3C5A99;
-}
-
-.sslCheck.fa-twitter {
-  color: #55ACEE;
-}
-
-.sslCheck.fa-youtube {
-  color: #DE2925;
-}
-
-.sslCheck.fa-github {
-  color: #201f1f;
-}
-
-.sslCheck.fa-codepen {
-  color: #212323;
-}
-
-.sslCheck.fa-jsfiddle {
-  color: #1ed7d2;
-}
-
-.sslCheck.fa-instagram {
-  color: #D6C9B5;
-}
-
-.sslCheck.fa-tumblr {
-  color: #395976;
-}
-
-.sslCheck.fa-deviantart {
-  color: #04CC48;
-}
-
-.sslCheck.fa-windows {
-  color: #0376DD;
-}
-
-.sslCheck.fa-apple {
-  color: #212323;
-}
-
-.sslCheck.fa-flickr {
-  color: #212323;
-}
-
-.sslCheck.fa-reddit {
-  color: #212323;
-}
-
-.sslCheck.fa-weibo {
-  color: #E6162D;
-}
-
-.sslCheck.fa-linkedin {
-  color: #0085AF;
-}
-
-.sslCheck.fa-vk {
-  color: #4C75A3;
-}
-
-.sslCheck.fa-bitbucket {
-  color: #25BFFF;
-}
-
-.sslCheck.fa-amazon {
-  color: #FF8E2E;
-}
-
-.sslCheck.fa-paypal {
-  color: #002C8A;
-}
-
-.sslCheck.fa-wordpress {
-  color: #464646;
-}
-
-.sslCheck.fa-slack {
-  color: #212323;
-}
-
-.sslCheck.fa-dropbox {
-  color: #008BD3;
-}
-
-.sslCheck.fa-steam {
-  color: #212323;
-}
-
-.commitent {
-  font-size: 1em;
+.homePage {
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  display: none;
+  text-align: center;
+  font-family: Roboto;
 }
 
-.commitent .audltContent {
-  border: 2px solid rgba(0, 0, 0, 0.6);
+.myface {
+  border-radius: 50%;
+  width: 15em;
+  height: 15em;
+}
+
+.upload {
+  margin: 0 auto;
+  border: 3px dotted #212323;
+  width: 50vw;
+  height: 50vh;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.upload.gotfile {
+  border: 2px solid #55da0d;
+}
+
+.upload .uploadIcon {
+  opacity: 0;
+  width: auto;
+  height: 30%;
+  top: 100px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.upload .uploadIcon.gotfile {
+  opacity: 1;
+  top: 0px;
+}
+
+.upload .uploadIcon.uploadfile {
+  top: -100px;
+  opacity: 0;
+}
+
+b {
+  font-size: 1.1em;
+  color: #8F334C;
+}
+
+.pro {
+  background: #FCD000;
+  color: #000;
+  padding: 0.2em;
+  border-radius: 5px;
+}
+
+[name=image] {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  top: 0em;
+  right: 0em;
+}
+
+.background {
+  background: url("https://bytebucket.org/moongod101/codepenassets-official-source/raw/8b02ff20941ca491562172be34c550b8f2059342/Codepenassets.png?token=326c89d1e8a0adb8313e8613dd33b579f7711f31") no-repeat center fixed;
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -99;
+}
+
+.indiegogoCampaign {
+  width: 222px;
+  height: 445px;
+  position: fixed;
+  left: 0em;
+  top: 0em;
+}
+
+.notif.red {
+  background: red;
+  color: #FFF;
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: fantasy;
+  position: fixed;
+  z-index: 100;
+  width: 100vw;
+  font-size: 1.5em;
+}
+
+.features {
+  position: fixed;
+  top: 11em;
+  right: 0em;
+  width: 10em;
+  height: 15em;
+  text-align: center;
+  z-index: 99;
+  background: rgba(113, 125, 191, 0.3);
+}
+
+@media screen and (max-width: 1010px) {
+  .upload {
+    width: 95vw;
+    height: 60vh;
+    margin: 0 auto;
+  }
+  html {
+    font-size: 1.5em;
+  }
 }
 
 @media screen and (max-width: 980px) {
-  .urlinput {
-    width: 100vw;
-    font-size: 1.5em;
-    text-align: center;
+  .showcase {
+    font-size: 2em;
   }
-  .sslCheck {
-    font-size: 4em;
+  .myface {
+    border-radius: 50%;
+    width: 20em;
+    height: 20em;
   }
-  .mylogo {
-    width: 5em;
-    height: 5em;
+  .showcase {
+    width: 90vw;
+    margin: 0 auto;
   }
-  .submit {
-    padding: 0.2em;
-    width: auto;
-    height: auto;
-    cursor: pointer;
+}
+
+@media screen and (max-width: 670px) {
+  .myface {
+    border-radius: 50%;
+    width: 30em;
+    height: 30em;
+  }
+}
+
+@-webkit-keyframes init {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+  }
+}
+
+@keyframes init {
+  from {
+    opacity: 0;
+    -webkit-transform: translateY(100px);
+            transform: translateY(100px);
+  }
+  to {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
 }
