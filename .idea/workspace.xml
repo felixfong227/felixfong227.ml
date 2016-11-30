@@ -2,29 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b200673a-7c3b-4364-85c9-81c33299362a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uploads/images" afterPath="$PROJECT_DIR$/uploads/images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/aboutMySelf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/contackLinks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/hero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ponies.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/projectsIMade.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/phone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phone.main.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/script.main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/style.main.sass" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.edit.css" afterPath="$PROJECT_DIR$/css/style.edit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.profile.css" afterPath="$PROJECT_DIR$/css/style.profile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/manager/showAudio.js" afterPath="$PROJECT_DIR$/js/manager/showAudio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/manager/showCSS.js" afterPath="$PROJECT_DIR$/js/manager/showCSS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/manager/showImage.js" afterPath="$PROJECT_DIR$/js/manager/showImage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/manager/showJS.js" afterPath="$PROJECT_DIR$/js/manager/showJS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/manager/showJSON.js" afterPath="$PROJECT_DIR$/js/manager/showJSON.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.editProfile.js" afterPath="$PROJECT_DIR$/js/script.editProfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/showAudio.es5.js" afterPath="$PROJECT_DIR$/js/showAudio.es5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/showCSS.es5.js" afterPath="$PROJECT_DIR$/js/showCSS.es5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/showImage.es5.js" afterPath="$PROJECT_DIR$/js/showImage.es5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/showJS.es5.js" afterPath="$PROJECT_DIR$/js/showJS.es5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/showJSON.es5.js" afterPath="$PROJECT_DIR$/js/showJSON.es5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manager/edit.php" afterPath="$PROJECT_DIR$/manager/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manager/profile.php" afterPath="$PROJECT_DIR$/manager/profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manager/removeImage.php" afterPath="$PROJECT_DIR$/manager/removeImage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manager/updateProfilePicture.php" afterPath="$PROJECT_DIR$/manager/updateProfilePicture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/style.edit.sass" afterPath="$PROJECT_DIR$/sass/style.edit.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/style.profile.sass" afterPath="$PROJECT_DIR$/sass/style.profile.sass" />
     </list>
     <ignored path="codepenassets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,12 +39,34 @@
     <favorites_list name="codepenassets" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projectsIMade.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/projectsIMade.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,6 +97,17 @@
         <option value="$PROJECT_DIR$/js/manager/showJS.js" />
         <option value="$PROJECT_DIR$/js/manager/showJSON.js" />
         <option value="$PROJECT_DIR$/manager/removeImage.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/content.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/contackLinks.css" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/css/hero.css" />
+        <option value="$PROJECT_DIR$/css/ponies.css" />
+        <option value="$PROJECT_DIR$/css/aboutMySelf.css" />
+        <option value="$PROJECT_DIR$/css/projectsIMade.css" />
       </list>
     </option>
   </component>
@@ -91,8 +119,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="116" />
+    <option name="y" value="68" />
+    <option name="width" value="1229" />
+    <option name="height" value="682" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -119,43 +149,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codepenassets" />
+              <option name="myItemId" value="felixfong227.ml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codepenassets" />
+              <option name="myItemId" value="felixfong227.ml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codepenassets" />
+              <option name="myItemId" value="felixfong227.ml" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="felixfong227.ml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="felixfong227.ml" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/learncode/youtubeTut" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../learncode/youtubeTut" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="profi&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;profile&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;upload.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php&#10;Get&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/GetImage.php&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.meanger.sass&#10;style.ma&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.main.sass&#10;db.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;DB&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;upload&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php" />
+    <property name="SearchEverywhereHistoryKey" value="projec&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/projectsIMade.css&#10;about&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;pon&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/ponies.css&#10;index.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;ab&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;main&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;content&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/content.css&#10;aboutm&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;her&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/hero.css&#10;profi&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;profile&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;upload.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php&#10;Get&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/GetImage.php&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.meanger.sass&#10;style.ma&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.main.sass&#10;db.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;DB&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;upload&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="CSS" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -220,33 +276,35 @@
       <workItem from="1473219344380" duration="2141000" />
       <workItem from="1473336391252" duration="8710000" />
       <workItem from="1473504937241" duration="2467000" />
+      <workItem from="1480490323942" duration="8292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28687000" />
+    <option name="totallyTimeSpent" value="36979000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <frame x="116" y="68" width="1229" height="682" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20529328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24515586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -267,439 +325,138 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/manager/showJSON.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="81" selection-start-line="19" selection-start-column="81" selection-end-line="19" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alphaAPI/showAudio.js" />
-    <entry file="file://$PROJECT_DIR$/sass/style.profile.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.meanger.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showCSS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="21" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/profile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-          <folding>
-            <marker date="1473494415000" expanded="true" signature="34:105" ph="SELECT icon,... meanger_accounts" />
-            <marker date="1473494415000" expanded="true" signature="416:512" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/manager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="210" column="42" selection-start-line="210" selection-start-column="42" selection-end-line="210" selection-end-column="42" />
-          <folding>
-            <marker date="1473344632000" expanded="true" signature="255:280" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1070:1472" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1479:7309" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1586:1876" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="2864:2997" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="3978:4103" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="5082:5214" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="6196:6368" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="7314:7581" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showJS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="21" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alphaAPI/showJS.js" />
-    <entry file="file://$PROJECT_DIR$/alphaAPI/showImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
-          <folding>
-            <marker date="1473220707000" expanded="true" signature="276:576" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="611:893" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1194:1337" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1372:1497" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1797:1932" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1967:2084" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2383:2525" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2560:2684" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2977:3160" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="3195:3360" ph="SELECT orgUR... shout" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showAudio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/manager/index.php" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="110" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="110" />
-          <folding>
-            <marker date="1473244160000" expanded="true" signature="1458:1594" ph="INSERT INTO shout... " />
-            <marker date="1473244160000" expanded="true" signature="1673:1740" ph="UPDATE meang... " />
-            <marker date="1473244160000" expanded="true" signature="1827:1958" ph="INSERT INTO shout... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/upload.php" />
     <entry file="file://$PROJECT_DIR$/alphaAPI/managerImage.php" />
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.meanger.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alphaAPI/showImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <marker date="1473220707000" expanded="true" signature="276:576" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="611:893" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1194:1337" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1372:1497" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1797:1932" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1967:2084" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2383:2525" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2560:2684" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2977:3160" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="3195:3360" ph="SELECT orgUR... shout" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/manager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
-          <folding>
-            <marker date="1473344632000" expanded="true" signature="255:280" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1070:1472" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1479:7309" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1586:1876" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="2864:2997" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="3978:4103" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="5082:5214" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="6196:6368" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="7314:7581" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php" />
+    <entry file="file://$PROJECT_DIR$/sass/style.main.sass" />
+    <entry file="file://$PROJECT_DIR$/sass/style.meanger.sass" />
+    <entry file="file://$PROJECT_DIR$/alphaAPI/showImage.php" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showImage.js" />
+    <entry file="file://$PROJECT_DIR$/manager/manager.php" />
+    <entry file="file://$PROJECT_DIR$/manager/index.php" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/alphaAPI/managerImage.php" />
-    <entry file="file://$PROJECT_DIR$/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php" />
+    <entry file="file://$PROJECT_DIR$/sass/style.main.sass" />
     <entry file="file://$PROJECT_DIR$/alphaAPI/showAudio.js" />
     <entry file="file://$PROJECT_DIR$/alphaAPI/showJS.js" />
-    <entry file="file://$PROJECT_DIR$/GetImage.php">
+    <entry file="file://$PROJECT_DIR$/GetImage.php" />
+    <entry file="file://$PROJECT_DIR$/css/profile.css" />
+    <entry file="file://$PROJECT_DIR$/alphaAPI/showImage.php" />
+    <entry file="file://$PROJECT_DIR$/upload.php" />
+    <entry file="file://$PROJECT_DIR$/js/showImage.es5.js" />
+    <entry file="file://$PROJECT_DIR$/sass/style.meanger.sass" />
+    <entry file="file://$PROJECT_DIR$/sass/style.profile.sass" />
+    <entry file="file://$PROJECT_DIR$/manager/editor.php" />
+    <entry file="file://$PROJECT_DIR$/manager/updateProfilePicture.php" />
+    <entry file="file://$PROJECT_DIR$/sass/style.edit.sass" />
+    <entry file="file://$PROJECT_DIR$/js/script.editProfile.js" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/manager/profile.php" />
+    <entry file="file://$PROJECT_DIR$/manager/edit.php" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showAudio.js" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showCSS.js" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showImage.js" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showJS.js" />
+    <entry file="file://$PROJECT_DIR$/js/manager/showJSON.js" />
+    <entry file="file://$PROJECT_DIR$/uploads/images/100920168atB88O6Fu7bAN8OVWVV9RIrD0EzZnA7x4IGcxMR1U3CIcrD9myjehKRipqhM1ok570iENaGHejpqK2z7BTlTEcb3DtQFRaLZb3DZekGsD6Sn9suKmPE02P3FiTla46agaNfo7WRK2J8bcCWysAzuqDaJxvUBB4SMR8bZ42K7MSjZvfxXQ7rgKBZh6TTIXLvPTGPYJz5.gif" />
+    <entry file="file://$PROJECT_DIR$/manager/removeImage.php" />
+    <entry file="file://$PROJECT_DIR$/manager/manager.php" />
+    <entry file="file://$PROJECT_DIR$/script.main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <marker date="1473165000000" expanded="true" signature="109:165" ph="SELECT orgUR... shout" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/profile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alphaAPI/showImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="96" column="40" selection-start-line="96" selection-start-column="40" selection-end-line="96" selection-end-column="40" />
-          <folding>
-            <marker date="1473220707000" expanded="true" signature="276:576" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="611:893" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1194:1337" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1372:1497" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1797:1932" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="1967:2084" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2383:2525" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2560:2684" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="2977:3160" ph="SELECT orgUR... shout" />
-            <marker date="1473220707000" expanded="true" signature="3195:3360" ph="SELECT orgUR... shout" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="69" column="89" selection-start-line="69" selection-start-column="89" selection-end-line="69" selection-end-column="89" />
-          <folding>
-            <marker date="1473244160000" expanded="true" signature="1458:1594" ph="INSERT INTO shout... " />
-            <marker date="1473244160000" expanded="true" signature="1673:1740" ph="UPDATE meang... " />
-            <marker date="1473244160000" expanded="true" signature="1827:1958" ph="INSERT INTO shout... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/showImage.es5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="697">
+          <caret line="70" column="7" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.meanger.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.profile.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/editor.php">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1470386225000" expanded="true" signature="113:158" ph="SELECT orgUR... shout" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/updateProfilePicture.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <marker date="1473434563000" expanded="true" signature="123:194" ph="UPDATE meang... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/style.edit.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.editProfile.js">
+    <entry file="file://$PROJECT_DIR$/css/content.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="101" selection-start-line="25" selection-start-column="101" selection-end-line="25" selection-end-column="101" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-          <folding>
-            <marker date="1473494631000" expanded="true" signature="266:337" ph="SELECT icon,... meanger_accounts" />
-            <marker date="1473494631000" expanded="true" signature="1342:1388" ph="SELECT newUR... shout" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager/profile.php">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contackLinks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ponies.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hero.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/aboutMySelf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/projectsIMade.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="187" selection-start-line="13" selection-start-column="187" selection-end-line="13" selection-end-column="187" />
-          <folding>
-            <marker date="1473494415000" expanded="true" signature="34:105" ph="SELECT icon,... meanger_accounts" />
-            <marker date="1473494415000" expanded="true" signature="416:512" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <marker date="1473505147000" expanded="true" signature="827:1058" ph="SELECT newUR... shout" />
-            <marker date="1473505147000" expanded="true" signature="1279:1310" ph="..." />
-            <marker date="1473505147000" expanded="true" signature="2259:2325" ph="SELECT passw... meanger_accounts" />
-            <marker date="1473505147000" expanded="true" signature="2539:2621" ph="UPDATE meang... " />
-            <marker date="1473505147000" expanded="true" signature="2860:2926" ph="SELECT passw... meanger_accounts" />
-            <marker date="1473505147000" expanded="true" signature="3245:3292" ph="DELETE FROM " />
-            <marker date="1473505147000" expanded="true" signature="3355:3412" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showAudio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showCSS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showImage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showJS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/manager/showJSON.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="65" column="70" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/images/100920168atB88O6Fu7bAN8OVWVV9RIrD0EzZnA7x4IGcxMR1U3CIcrD9myjehKRipqhM1ok570iENaGHejpqK2z7BTlTEcb3DtQFRaLZb3DZekGsD6Sn9suKmPE02P3FiTla46agaNfo7WRK2J8bcCWysAzuqDaJxvUBB4SMR8bZ42K7MSjZvfxXQ7rgKBZh6TTIXLvPTGPYJz5.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/removeImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#743#801#0#PHP" expanded="false" />
-            <marker date="1473507774000" expanded="true" signature="142:204" ph="SELECT icon meanger_accounts" />
-            <marker date="1473507774000" expanded="true" signature="239:291" ph="SELECT newUR... shout" />
-            <marker date="1473507774000" expanded="true" signature="663:701" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager/manager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="179" column="33" selection-start-line="179" selection-start-column="33" selection-end-line="179" selection-end-column="33" />
-          <folding>
-            <marker date="1473344632000" expanded="true" signature="255:280" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1070:1472" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1479:7309" ph="..." />
-            <marker date="1473344632000" expanded="true" signature="1586:1876" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="2864:2997" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="3978:4103" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="5082:5214" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="6196:6368" ph="SELECT orgUR... shout" />
-            <marker date="1473344632000" expanded="true" signature="7314:7581" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

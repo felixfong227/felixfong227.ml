@@ -1,0 +1,35 @@
+.hero{
+    width: 100vw;
+    height: 20em;
+    background: url("http://i.imgur.com/NJUhPeo.jpg")no-repeat center;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: skyblue;
+}
+
+.hero .profilePicture{
+    background: url("https://avatars3.githubusercontent.com/u/13918481?v=3")no-repeat center;
+    background-size: 100%;
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    border: 5px #FFF solid;
+    border-bottom: 5px skyblue solid;
+    position: relative;
+    margin: 0 auto;
+    top: 5em;
+    z-index: 1;
+}
+
+.hero h1{
+    font-size: 5em;
+}
+
+@media screen and (max-width: 370px) {
+
+    .hero h1 {
+        font-size: 4em;
+    }
+
+}

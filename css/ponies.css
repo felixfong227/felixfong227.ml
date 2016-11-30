@@ -1,0 +1,28 @@
+.ponies{
+    position: fixed;
+    bottom: 0em;
+    left: 0em;
+    width: 100vw;
+    height: 10em;
+}
+
+.ponies .rainbow img{
+    width: 15em;
+}
+
+@media screen and (max-width: 415px){
+
+    .ponies .rainbow img{
+        width: 6em;
+    }
+
+}
+
+@media screen and (max-width: 320px){
+
+    .ponies .rainbow img{
+        position: fixed;
+        width: 5em;
+    }
+
+}

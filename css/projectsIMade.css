@@ -1,0 +1,17 @@
+.projectsIMade{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.projectsIMade a{
+    font-size: 3em;
+}
+
+@media screen and (max-width: 415px){
+
+    .projectsIMade a{
+        font-size: 2em;
+    }
+
+}

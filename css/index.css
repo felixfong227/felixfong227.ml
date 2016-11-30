@@ -1,0 +1,14 @@
+/*Google Fonts CDN*/
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+/*Font Is Awesome CDN*/
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import "aboutMySelf.css";
+@import "hero.css";
+@import "ponies.css";
+@import "content.css";
+@import "projectsIMade.css";
+@import "contackLinks.css";
+*{
+    padding: 0em;
+    margin: 0em;
+}
