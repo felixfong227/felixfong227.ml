@@ -4,6 +4,7 @@
     left: 0em;
     width: 100vw;
     height: 10em;
+    z-index: -9;
 }
 
 .ponies .rainbow img{
