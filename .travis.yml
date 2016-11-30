@@ -15,5 +15,5 @@ env:
     - "FTP_PASSWORD=$FTP_PASSWORD"
 after_success:
 
-    - find * -name "*" -exec curl -T {} ftp://ftp.hostfree.pw/codepenassets.ml/htdocs/{} --user $FTP_USERNAME:$FTP_PASSWORD \;
-    - find * -name ".*" -exec curl -T {} ftp://ftp.hostfree.pw/codepenassets.ml/htdocs/{} --user $FTP_USERNAME:$FTP_PASSWORD \;
+    - find * -name "*" -exec curl -T {} ftp://ftp.hostfree.pw/felixfong227.ml/htdocs/{} --user $FTP_USERNAME:$FTP_PASSWORD \;
+    - find * -name ".*" -exec curl -T {} ftp://ftp.hostfree.pw/felixfong227.ml/htdocs/{} --user $FTP_USERNAME:$FTP_PASSWORD \;

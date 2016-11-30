@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b200673a-7c3b-4364-85c9-81c33299362a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/aboutMySelf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/contackLinks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/hero.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ponies.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/projectsIMade.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/phone.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/phone.main.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/script.main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.main.sass" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="codepenassets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,11 +33,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projectsIMade.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="projectsIMade.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/projectsIMade.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -103,11 +97,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/contackLinks.css" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/css/hero.css" />
         <option value="$PROJECT_DIR$/css/ponies.css" />
         <option value="$PROJECT_DIR$/css/aboutMySelf.css" />
         <option value="$PROJECT_DIR$/css/projectsIMade.css" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -276,12 +270,12 @@
       <workItem from="1473219344380" duration="2141000" />
       <workItem from="1473336391252" duration="8710000" />
       <workItem from="1473504937241" duration="2467000" />
-      <workItem from="1480490323942" duration="8292000" />
+      <workItem from="1480490323942" duration="9558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36979000" />
+    <option name="totallyTimeSpent" value="38245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="68" width="1229" height="682" extended-state="0" />
@@ -404,14 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/contackLinks.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -454,8 +440,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/projectsIMade.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
           <folding />
         </state>
       </provider>
