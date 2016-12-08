@@ -1,0 +1,26 @@
+{
+  "short_name": "Felix's Page",
+  "name": "Felix Fong(felixfong227)",
+  "description": "Felix's website",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "https://avatars3.githubusercontent.com/u/13918481?v=3",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/13918481?v=3",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://avatars3.githubusercontent.com/u/13918481?v=3",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

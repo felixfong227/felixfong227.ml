@@ -2,9 +2,10 @@
     position: fixed;
     bottom: 0em;
     left: 0em;
-    width: 100vw;
+    width: auto;
     height: 10em;
-    z-index: -9;
+    display: inline;
+    z-index: 1;
 }
 
 .ponies .rainbow img{
