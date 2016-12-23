@@ -1,0 +1,19 @@
+.notification{
+    position: fixed;
+    bottom: -100vh;
+    left: 1em;
+    background: #212323;
+    color: yellow;
+    padding: 0.5em;
+    font-family: sans-serif;
+    transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    font-size: 1.5em;
+}
+
+.notification.on{
+    bottom: 1em;
+}

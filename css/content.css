@@ -4,3 +4,11 @@
     position: relative;
     top: 5em;
 }
+
+@media screen and (max-width: 370px) {
+
+    .content{
+        text-align: center;
+    }
+
+}
