@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b200673a-7c3b-4364-85c9-81c33299362a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/loadScreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/loadScreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sw.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/addToHomeScreen.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/serviceworkers.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/content.css" afterPath="$PROJECT_DIR$/css/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/hero.css" afterPath="$PROJECT_DIR$/css/hero.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prepros.cfg" afterPath="$PROJECT_DIR$/prepros.cfg" />
     </list>
     <ignored path="codepenassets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="loadScreen.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loadScreen.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/loadScreen.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,7 +101,6 @@
         <option value="$PROJECT_DIR$/js/sw.js" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/loadScreen.js" />
         <option value="$PROJECT_DIR$/sw.js" />
         <option value="$PROJECT_DIR$/css/content.css" />
@@ -112,6 +109,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/loadScreen.css" />
         <option value="$PROJECT_DIR$/js/loadScreen.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -207,7 +205,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../learncode/youtubeTut" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="load&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/loadScreen.css&#10;loadSc&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/loadScreen.js&#10;index.html&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/index.html&#10;hero.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/hero.css&#10;content&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/content.css&#10;index.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;main&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;sw.js&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/sw.js&#10;manif&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/manifest.json&#10;ma&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;index.c&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;index.htm&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/index.html&#10;ser&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/serviceworkers.js&#10;contac&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/contackLinks.css&#10;projectI&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/projectsIMade.css&#10;content.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/content.css&#10;js/fire&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/fireabaseStuff.js&#10;firebase&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/firebase-messaging-sw.js&#10;index&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;ponies&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/ponies.css&#10;projec&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/projectsIMade.css&#10;about&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;pon&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/ponies.css&#10;ab&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;aboutm&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;her&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/hero.css&#10;profi&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;profile&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;upload.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php&#10;Get&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/GetImage.php&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.meanger.sass&#10;style.ma&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.main.sass&#10;db.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;DB&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;upload&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php" />
+    <property name="SearchEverywhereHistoryKey" value="main.js&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;load&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/loadScreen.css&#10;loadSc&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/loadScreen.js&#10;index.html&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/index.html&#10;hero.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/hero.css&#10;content&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/content.css&#10;index.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;main&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;sw.js&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/sw.js&#10;manif&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/manifest.json&#10;ma&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/main.js&#10;index.c&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;index.htm&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/index.html&#10;ser&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/serviceworkers.js&#10;contac&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/contackLinks.css&#10;projectI&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/projectsIMade.css&#10;content.css&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/content.css&#10;js/fire&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/js/fireabaseStuff.js&#10;firebase&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/firebase-messaging-sw.js&#10;index&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/index.css&#10;ponies&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/ponies.css&#10;projec&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/projectsIMade.css&#10;about&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;pon&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/ponies.css&#10;ab&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;aboutm&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/aboutMySelf.css&#10;her&#9;FILE&#9;file:///Users/felixfong/Desktop/PHPProjects/felixfong227.ml/css/hero.css&#10;profi&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;profile&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/manager/profile.php&#10;upload.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php&#10;Get&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/GetImage.php&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.meanger.sass&#10;style.ma&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/sass/style.main.sass&#10;db.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;DB&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/db.php&#10;upload&#9;FILE&#9;file:///Applications/MAMP/htdocs/codepenassets/upload.php" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -303,12 +301,12 @@
       <workItem from="1481211309878" duration="3700000" />
       <workItem from="1481704113170" duration="1626000" />
       <workItem from="1482528019143" duration="1271000" />
-      <workItem from="1482743349370" duration="26974000" />
+      <workItem from="1482743349370" duration="27046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73140000" />
+    <option name="totallyTimeSpent" value="73212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -480,14 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="3" selection-end-line="32" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sw.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -551,6 +541,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
