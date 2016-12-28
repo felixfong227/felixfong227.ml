@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
+    <!--Web app stuff-->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#98E2FF">
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -8,65 +11,60 @@
     <link rel="stylesheet" href="css/index.css">
     <title>felixfong227(Felix Fong)</title>
 
-    <!--Web app stuff-->
-    <link rel="manifest" href="/manifest.json">
-    <script src="js/serviceworkers.js"></script>
 </head>
 <body>
 
-
-<div class="hero">
-    <h1>felixfong227</h1>
-    <div class="profilePicture"></div>
-</div>
-
-<div class="content">
-    <div class="aboutMyself">
-        <p>Howdy,my name is Felix Fong,on GitHub AKA <a href="https://github.com/moongod101">@moongod101</a>,on Twitter AKA
-            <a href="https://twitter.com/felixfong227">@felixfong227</a>,this year i'm <span class="myAge"></span>now.
-        I think i was doing web development for about one and haft years now?
-        I use to do a lot of front end project,but lately i'm in love with <b>NodeJS</b> and other back end development.</p>
-        I have <b>none</b> real world working experience,but i do have some real world projects
+<div class="app">
+    <div class="hero">
+        <h1>felixfong227</h1>
+        <div class="profilePicture"></div>
     </div>
 
-    <div class="projectsIMade">
-
-        <div class="codepenassets">
-            <a href="https://codepenassets.ml">Codepenassets</a>
-            <p>A online assets hosting provider</p>
+    <div class="content">
+        <div class="aboutMyself">
+            <p>Howdy,my name is Felix Fong,on GitHub AKA <a href="https://github.com/moongod101">@moongod101</a>,on Twitter AKA
+                <a href="https://twitter.com/felixfong227">@felixfong227</a>,this year i'm <span class="myAge"></span>now.
+                I think i have being doing web development for about one and half years?
+                I used to do a lot of front end project,but lately i'm in love with <b>NodeJS</b> and other back end development.</p>
+            I have <b>none</b> real world working experience,but i do have some real world projects
         </div>
 
-        <div class="shty">
-            <a href="https://shty.ml">Shty</a>
-            <p>A URL shortener service</p>
+        <div class="projectsIMade">
+
+            <div class="codepenassets">
+                <a href="https://codepenassets.ml">Codepenassets</a>
+                <p>A online assets hosting provider</p>
+            </div>
+
+            <div class="shty">
+                <a href="https://shty.ml">Shty</a>
+                <p>A URL shortener service</p>
+            </div>
+
         </div>
-        
+
+        <div class="contackLinks">
+
+            <a href="https://twitter.com/felixfong227" class="fa fa-twitter"></a>
+            <a href="https://github.com/moongod101" class="fa fa-github"></a>
+            <a href="https://soundcloud.com/djfelixsc" class="fa fa-soundcloud"></a>
+
+        </div>
+
+
     </div>
-    
-    <div class="contackLinks">
-
-        <a href="https://twitter.com/felixfong227" class="fa fa-twitter"></a>
-        <a href="https://github.com/moongod101" class="fa fa-github"></a>
-        <a href="https://soundcloud.com/djfelixsc" class="fa fa-soundcloud"></a>
-        
-    </div>
-    
-
-</div>
 
 
-<div class="ponies">
-    <div class="rainbow">
-        <img src="http://i.imgur.com/NHelBgr.png" alt="Rainbow Dash">
+    <div class="ponies">
+        <div class="rainbow">
+            <img src="/src/rainbow.png" alt="Rainbow Dash">
+        </div>
     </div>
 </div>
 
 <div class="notification"></div>
-
-<script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
-<script src="/js/pushNotification.js"></script>
+<script src="js/pushNotification.js"></script>
 <script src="js/main.js"></script>
-<script src="js/addToHomeScreen.js"></script>
-<script src="js/fireabaseStuff.js"></script>
+<script src="js/loadScreen.js"></script>
 </body>
 </html>

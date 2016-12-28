@@ -9,7 +9,12 @@
 @import "projectsIMade.css";
 @import "contackLinks.css";
 @import "notification.css";
+@import "loadScreen.css";
+
 *{
     padding: 0em;
     margin: 0em;
+}
+html,body{
+    background: #98E2FF;
 }

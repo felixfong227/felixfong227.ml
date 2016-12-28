@@ -13,3 +13,21 @@ rainbowdash.addEventListener("touchmove",function (e) {
     ponies.style.left = positionX + "px";
     ponies.style.top = positionY + "px";
 });
+
+// Using the service worker
+// if( "serviceWorker" in navigator){
+//
+//     // Good to go now
+//     navigator.serviceWorker
+//         .register("../sw.js")
+//         .then(function (registration) {
+//             console.log("[Service Worker Success]: Success to register");
+//         })
+//         .catch(function (error) {
+//            console.log("[Service Worker Error]: Fail to register: ", error);
+//             pushNotification("Please reload the page for offline use case");
+//         });
+//
+// }else{
+//     console.log("Service worker do NOT support your current browser");
+// }

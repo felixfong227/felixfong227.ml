@@ -2,7 +2,8 @@
   "short_name": "Felix's Page",
   "name": "Felix Fong(felixfong227)",
   "description": "Felix's website",
-  "background_color": "#fff",
+  "background_color": "#98E2FF",
+  "theme_color": "#98E2FF",
   "icons": [
     {
       "src": "https://avatars3.githubusercontent.com/u/13918481?v=3",
