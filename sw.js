@@ -1,5 +1,5 @@
 // Set a name for the current cache
-var cacheName = 'v1';
+var cacheName = 'v2';
 
 // Default files to always cache
 var cacheFiles = [
@@ -18,9 +18,10 @@ var cacheFiles = [
     '/js/loadScreen.js',
     '/src/rainbow.png',
     '/src/banner.jpg',
+    '/src/javascript.png',
     'https://fonts.googleapis.com/css?family=Indie+Flower',
     'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
-    'https://avatars3.githubusercontent.com/u/13918481?v=3'
+    'https://avatars3.githubusercontent.com/u/13918481?v=3',
 ]
 
 
